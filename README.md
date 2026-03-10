@@ -1,4 +1,3 @@
-# cookie.html
 <!DOCTYPE html>
 <html>
 <head>
